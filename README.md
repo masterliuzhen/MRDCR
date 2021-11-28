@@ -6,7 +6,7 @@ Zhen Liu, Xiao-Jun Wu, Zhenqiu Shu.
 
 Pattern Analysis and Applications, 2021, 24: 1793–1803.
 
-main.m: Run this file
+main_LFW.m: Run this file
 
 This code takes the LFW(LFW__32x32_r) database as an example.
 
