@@ -1,7 +1,9 @@
 The code is for the paper:
 
 Multi-resolution dictionary collaborative representation for face recognition
+
 Zhen Liu, Xiao-Jun Wu, Zhenqiu Shu. 
+
 Pattern Analysis and Applications, 2021, 24: 1793–1803.
 
 main.m: Run this file
